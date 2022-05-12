@@ -23,4 +23,6 @@ Built with:
 8. Run ```npm start``` from the frontend directory.
 9. Navigate to the browser, open as many windows as you like and have fun chatting with yourself from each window.
 
+<br>
 
+![Alt text](./Screenshot.png)
